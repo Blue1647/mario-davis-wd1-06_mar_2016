@@ -1,0 +1,14 @@
+body{
+    background-image: url("http://a.espncdn.com/combiner/i?img=/photo/2011/0206/nfl_g_ward2x_576.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+        text-align:center;
+
+}
+h1{
+    color:blue;
+}
+
+li {
+    display:inline;
+}
